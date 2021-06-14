@@ -17,7 +17,7 @@
 
 eval("\n\n//# sourceURL=webpack:///./src/index.js?");
 // eval("console.log("Webpack is working!")");
-console.log("Webpack is working!");
+// console.log("Webpack is working!");
 
 /***/ })
 

@@ -1,1 +1,1 @@
-MovingObject.prototype
+console.log("in asteroids!")
